@@ -11,9 +11,41 @@
             "badge": "Excellent"
         },
         "price": 200,
-        "title": "Graphic Design",
+        "title": "Content Graphic Design",
         "image_url": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
-        "details": "Learn Graphic design principles, typography, & color mastery using Illustrator, InDesign, and Photoshop. For beginners & more!"
+        "details": "Learn Graphic design principles, typography, & color mastery using Illustrator, InDesign, and Photoshop. For beginners & more! Graphic design is a profession, academic discipline and applied art whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    },
+    {
+        "_id": "638a106960998f75642f36c3",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 260,
+        "title": "Motion Graphic Design",
+        "image_url": "https://animationskill.com/wp-content/uploads/2019/06/motion-graphics-inspiration-730x422.jpg",
+        "details": "Motion graphics is animation, but with text as a major component. Essentially, its animated graphic design. Ever since motion graphics first entered the scene, theres been a debate about the line between them and full animation. The opening credits of Hitchcocks Psycho is an early example of motion graphics, where the marriage of sound, motion, and graphic design come together exceptionally well."
+    },
+    {
+        "_id": "638a1069b963597bcf4ca21f",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 110,
+        "title": "Typographic Design",
+        "image_url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/07/guide-to-typography-700x485.png?auto=format&q=60&fit=max&w=930",
+        "details": "Typography design is everywhere. Do you ever notice the line spacing on the list of ingredients on the back of a crackers package? Or the shape of the numbers on a price tag or even the weights of the letters (a.k.a how thick or thin they are) on street name signs? These may not be your go-to inspirational sources, but they’re an everyday part of life. Before we dive deeper into typography design, let’s take a look at what typography is, and where it came from."
     },
     {
         "_id": "635a8401d887eb07516d91a4",
@@ -29,7 +61,39 @@
         "price": 300,
         "title": "Data Science",
         "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2212&q=80",
-        "details": "Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build machine learning models. No degree or prior experience required."
+        "details": "Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build machine learning models. No degree or prior experience required. Data science is an interdisciplinary field focused on extracting knowledge from typically large data sets and applying the knowledge and insights from that data to solve problems in a wide range of application domains."
+    },
+    {
+        "_id": "638a10693f92502207209f13",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 180,
+        "title": "Data Analytics",
+        "image_url": "https://www.investopedia.com/thmb/dZufFkQjJ1OLmes9RgTA8HfjkS8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/data-analytics-4198207-01-final-1-62e8943d76644707831e07d45ecb431e.png",
+        "details": "Data analytics is the science of analyzing raw data to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption. Data analytics is a broad term that encompasses many diverse types of data analysis. Any type of information can be subjected to data analytics techniques to get insight that can be used to improve things. Data analytics techniques can reveal trends and metrics that would otherwise be lost in the mass of information."
+    },
+    {
+        "_id": "638a1069ce8493b9ec72ea89",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 290,
+        "title": "Data Visualization",
+        "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2212&q=80",
+        "details": "This guide will explain the fundamentals of data visualization in a way that anyone can understand. Included are a ton of examples of different types of data visualizations and when to use them for your reports, presentations, marketing, and more. Words don’t always paint the clearest picture. Raw data doesn’t always tell the most compelling story. But if “data visualization” sounds tricky and technical don’t worry—it doesn’t have to be. Data visualization is used everywhere. Businesses use data visualization for reporting, forecasting, and marketing."
     },
     {
         "_id": "635a84017b64e7be25c1deb7",
@@ -43,9 +107,41 @@
             "badge": "Excellent"
         },
         "price": 400,
-        "title": "Web Development",
+        "title": "Web Frontend",
         "image_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-        "details": "Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from OnEducation. No degree or prior experience required to get started."
+        "details": "Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from OnEducation. No degree or prior experience required to get started. The human mind is very receptive to visual information. That’s why data visualization is a powerful tool for communication. Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+    },
+    {
+        "_id": "638a106929eb0db77bdda1a6",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "price": 490,
+        "title": "Web Backend",
+        "image_url": "https://www.liveabout.com/thmb/9Sopiy7lPYuNupcE0phtf2utNHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/backenddeveloper-2502825a14ff440eb775dc4244e7ed4d.png",
+        "details": "Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from OnEducation. No degree or prior experience required to get started. The human mind is very receptive to visual information. That’s why data visualization is a powerful tool for communication. This is a beginner course intended for learners eager to learn the fundamentals of web development. This comprehensive course will help you understand precisely what backend developers do. You'll gain a practical, hands-on skillset."
+    },
+    {
+        "_id": "638a10693c0fb8d4b73c6b5b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "price": 400,
+        "title": "Web Design",
+        "image_url": "https://img.freepik.com/free-vector/cartoon-web-design-landing-page_52683-70880.jpg?w=1800&t=st=1669994221~exp=1669994821~hmac=a694b24951f34be9f0d6f3248530a36a15b0f98fe949a937479e7594dcea19c0",
+        "details": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization. Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development"
     },
     {
         "_id": "635a840175b8f7cda802ec15",
@@ -61,7 +157,39 @@
         "price": 350,
         "title": "Cyber Security",
         "image_url": "https://images.unsplash.com/photo-1618060932014-4deda4932554?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-        "details": "Protect your network - Put cybercriminals in jail. Learn computer forensics, malware analysis and hacker investigations."
+        "details": "Protect your network - Put cybercriminals in jail. Learn computer forensics, malware analysis and hacker investigations. Cyber security is the application of technologies, processes, and controls to protect systems, networks, programs, devices and data from cyber attacks. Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks."
+    },
+    {
+        "_id": "638a1742a557cabae19b58a9",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "price": 320,
+        "title": "Cloud Security",
+        "image_url": "https://www.2ndwatch.com/wp-content/uploads/2021/08/shutterstock_1530570248-sm.jpg",
+        "details": "Cloud computing security or, more simply, cloud security refers to a broad set of policies, technologies, applications, and controls utilized to protect virtualized IP, data, applications, services, and the associated infrastructure of cloud computing. Cloud security is a collection of procedures and technology designed to address external and internal threats to business security. Cloud security is the protection of data stored online via cloud computing platforms from theft, leakage, and deletion."
+    },
+    {
+        "_id": "638a1742dc59ad04c1431f81",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "course_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "price": 310,
+        "title": "Network security",
+        "image_url": "https://images.unsplash.com/photo-1618060932014-4deda4932554?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "details": "Network security consists of the policies, processes and practices adopted to prevent, detect and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources. Network Security protects your network and data from breaches, intrusions and other threats. Network security is the protection of the underlying networking infrastructure from unauthorized access, misuse, or theft. Network security encompasses all the steps taken to protect the integrity of a computer network and the data within it."
     },
     {
         "_id": "635a8401a487ac9c2fb93ccb",
@@ -75,9 +203,41 @@
             "badge": "Excellent"
         },
         "price": 280,
-        "title": "UI/UX Design",
+        "title": "Interaction Design ",
+        "image_url": "https://designshack.net/wp-content/uploads/uxd-lede.jpg",
+        "details": "Interaction design, often abbreviated as IxD, is the practice of designing interactive digital products and services. John Kolko, Author of Thoughts on Interaction Design, gives the following definition to interaction design: “Interaction Design is the creation of a dialogue between a person and a product, system, or service. This dialogue is both physical and emotional in nature and is manifested in the interplay between form, function, and technology as experienced over time.” Interaction designers focus on the way users interact with products and they use principles of good communication to create desired user experiences."
+    },
+    {
+        "_id": "638a17420f08b6ab98bb5332",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "course_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 120,
+        "title": "UI/UX Basics ",
         "image_url": "https://images.unsplash.com/photo-1576153192396-180ecef2a715?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80",
-        "details": "Design High-Impact User Experiences. Research, design, and prototype effective, visually-driven websites and apps."
+        "details": "Design High-Impact User Experiences. Research, design, and prototype effective, visually-driven websites and apps. UI is all about how a product looks. UI design refers to user interface design, while UX design stands for user experience design. UI is how something looks and how you interact with it. UX is how something works. Let's dive deep into both of them one by one."
+    },
+    {
+        "_id": "638a174222552b3f4ebbd288",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "course_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 180,
+        "title": "Menu-driven Interface ",
+        "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686225/retina_800x320_image10-1fe86dc8c4f622f21523d379fe0fe7ce.png",
+        "details": "The menu-driven user interface provides you with a range of commands or options in the form of a list or menu displayed in full-screen, pop-up, pull-down, or drop-down. An ATM is an example of a menu-driven interface. Advantages: It is not necessary to remember a long list of manual commands. A menu-driven interface is, simply, an easier way of navigating the devices and programs we interact with on a daily basis. A menu-based interface was designed to provide users with an easy, consistent means for finding and initiating various facilities on a host computer."
     },
     {
         "_id": "635a8401ea8a7c8caf18f27c",
@@ -93,6 +253,38 @@
         "price": 480,
         "title": "Block Chain",
         "image_url": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
-        "details": "Design High-Impact User Experiences. Research, design, and prototype effective, visually-driven websites and apps."
+        "details": "Design High-Impact User Experiences. Research, design, and prototype effective, visually-driven websites and apps. A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems"
+    },
+    {
+        "_id": "638a1742221e483c2be9093f",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "course_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 480,
+        "title": "Introduction To Ethereum",
+        "image_url": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/03/ethereum-1.jpeg",
+        "details": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Among cryptocurrencies, ether is second only to bitcoin in market capitalization. Ethereum was conceived in 2013 by programmer Vitalik Buterin. Ethereum is a decentralized blockchain platform that establishes a peer-to-peer network that securely executes and verifies application code, called smart contracts. Smart contracts allow participants to transact with each other without a trusted central authority."
+    },
+    {
+        "_id": "638a174257dd25b8837ba77e",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "course_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 480,
+        "title": "Cryptocurrency",
+        "image_url": "https://www.kaspersky.com/content/en-global/images/repository/isc/2021/cryptocurrency_image1_1130490519_670x377px_300dpi.jpg",
+        "details": "A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant. Cryptocurrency is a digital currency using cryptography to secure transactions. Learn about buying cryptocurrency and cryptocurrency scams to look out for."
     }
 ]

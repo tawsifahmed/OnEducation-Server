@@ -17,9 +17,15 @@ app.get('/site-courses', (req, res) => {
     res.send(courses);
 });
 
+app.get('/course-details/:id', (req, res) => {
+    const id = req.params.id;
+    const courseDetails = course.find(cDet => cDet._id === id);
+    res.send(courseDetails);
+})
+
 app.get('/:id', (req, res) => {
     const id = req.params.id
-    const selectedCourse = course.find(c => c.course_id === id);
+    const selectedCourse = course.filter(c => c.course_id === id);
     res.send(selectedCourse);
 })
 
